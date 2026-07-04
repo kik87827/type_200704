@@ -1,0 +1,10 @@
+"use strict";
+let menKim = 'kim';
+let menAge = 50;
+let menMerry = true;
+let empty = null;
+let undefineded = undefined;
+let members = [0, 'park', true];
+let mems = { member1: 'kim', member2: 'park' };
+let mem = 'park';
+let mems2 = [1, 2, 3];

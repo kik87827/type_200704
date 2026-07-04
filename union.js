@@ -1,0 +1,11 @@
+"use strict";
+let umem = 123;
+umem = 'test';
+let member2s = [1, '2', 3];
+let objs = { a: 123 };
+let men;
+men = 123;
+men = true;
+let men2;
+let myage;
+let myage2 = 1;
