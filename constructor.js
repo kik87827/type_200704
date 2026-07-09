@@ -1,3 +1,4 @@
+// @ts-nocheck
 // 객체지향
 // constructor - 비슷한 object를 많이 복사할때 사용
 // var stu1 = { name : 'kim', age : 15}
@@ -12,6 +13,9 @@ export default function constructorStudy() {
     // constructor에서 생성된 object는 instance
     var stu1 = new Student('kim', '12');
     var stu2 = new Student('kim2', '14');
-    stu1.print();
-    console.log(stu1, stu2);
+    //stu1.print();
+    // console.log(stu1,stu2);
+    Student.prototype.test = () => { console.log('test'); };
+    stu2.test();
+    console.log(stu2.x);
 }
