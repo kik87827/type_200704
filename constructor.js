@@ -17,5 +17,4 @@ export default function constructorStudy() {
     // console.log(stu1,stu2);
     Student.prototype.test = () => { console.log('test'); };
     stu2.test();
-    console.log(stu2.x);
 }

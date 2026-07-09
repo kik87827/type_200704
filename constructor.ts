@@ -23,6 +23,5 @@ export default function constructorStudy(){
 
     stu2.test()
 
-    console.log(stu2.)
 }
 
