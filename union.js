@@ -1,4 +1,3 @@
-"use strict";
 let umem = 123;
 umem = 'test';
 let member2s = [1, '2', 3];

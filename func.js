@@ -1,4 +1,3 @@
-"use strict";
 function Func(arg) {
     return arg * 2;
 }

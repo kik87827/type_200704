@@ -1,4 +1,3 @@
-"use strict";
 let falias = (a) => {
     return 0;
 };

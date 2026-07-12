@@ -1,4 +1,3 @@
-"use strict";
 let liName;
 let itsMe;
 itsMe = "인";

@@ -1,4 +1,3 @@
-"use strict";
 let userName = 'kim';
 let userName2 = ['kim', 'park'];
 let userName3 = { name: 'kim' };

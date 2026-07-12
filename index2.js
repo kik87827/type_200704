@@ -1,4 +1,3 @@
-"use strict";
 let menKim = 'kim';
 let menAge = 50;
 let menMerry = true;

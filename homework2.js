@@ -1,4 +1,3 @@
-"use strict";
 /* let user :string = 'kim';
 let age :undefined | number = undefined;
 let married :boolean = false;
